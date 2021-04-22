@@ -6,8 +6,8 @@
 
 <p align = "center">
   <a href="https://github.com/ToledoSDL/">
-    <img src = "https://github-readme-stats.vercel.app/api?username=ToledoSDL&show_icons=true&theme=white&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ToledoSDL&layout=demo&theme=white">
+    <img src = "https://github-readme-stats.vercel.app/api?username=SamuelGames-dev&show_icons=true&theme=white&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGames-dev&layout=demo&theme=white">
   </a>
 </p>
 
